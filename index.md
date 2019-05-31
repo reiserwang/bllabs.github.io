@@ -1,30 +1,9 @@
-## Welcome to GitHub Pages
+## BLLabs
 
-You can use the [editor on GitHub](https://github.com/BLLabs/bllabs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> "The biggest value opportunities for AI are in marketing and sales, supply -chain management, and manufacturing” [McKinsey Global Institute April 2018](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With our data analytics and financial digital marketing experts of 10+ years, BLLabs* (Business Logic Labs) provides consulting services for meeting demands and/or problems of various segments through data analytics and machine learning models. Example cases include customer analytics and customized portfolio suggestions of financial segments, customer preference analytics of travel service companies, and social media traffic optimization, audience analysis, and chat bot. We also cares information education in Taiwan.
 
-### Markdown
+If you’re interested in what we are doing check out our [code repository](https://github.com/BLLabs), [demo](https://ducala.org/demo/), or [our blog](https://ducala.org/category/software-cloud-tech/blog/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+<img src="https://ducala.org/wp-content/uploads/2018/07/fish-ocean-624x427.jpg"/>
